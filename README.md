@@ -16,7 +16,7 @@
 
 📫 How to reach me: ... -->
 
-<a href="https://www.linkedin.com/in/pritesh-kumar-sahoo-488097264/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pritesh-kumar-sahoo-590a66230"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
 <br />
 
 ---
